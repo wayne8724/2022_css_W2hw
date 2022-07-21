@@ -1,0 +1,25 @@
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+img {
+  vertical-align: middle;
+  max-width: 100%;
+}
+
+header {
+  background-image: url(https://github.com/hexschool/2022-web-layout-training/blob/main/week2/banner.png?raw=true);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 958px;
+}/*# sourceMappingURL=structure.css.map */
